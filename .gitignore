@@ -1,0 +1,13 @@
+# Build artefacts and source footage — never committed to the entry repo.
+# The entry is main.ts + VIDEO.json + LICENSE + README.md + AGENT.md + .makefun/.
+# The trailer and the rendered clip stay here in the working directory only
+# (the clip is handed to the person to upload to YouTube).
+gta6-trailer2.mp4
+moment-vertical.mp4
+voiceover.wav
+gta6-lucia-free-short.mp4
+tts/
+pitch-card/
+render-moment.sh
+assemble-final.sh
+out/
